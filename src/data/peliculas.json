@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1e0c7633",
+        "titulo": "ElPadrino",
+        "anio_estreno": 1972,
+        "director": "Francis Ford Coppola",
+        "duracion": 175,
+        "activo": true
+    },
+    {
+        "id": "8f812f8c",
+        "titulo": "The Lord of the Rings",
+        "anio_estreno": 2001,
+        "director": "Peter Jackson",
+        "duracion": 557,
+        "activo": true
+    },
+    {
+        "id": "4fe80469",
+        "titulo": "Elseñor de los anillos: La comunidad del anillo",
+        "anio_estreno": 2001,
+        "director": "Peter Jackson",
+        "duracion": 557,
+        "activo": true
+    },
+    {
+        "id": "96fbf88f",
+        "titulo": "Elseñor de los anillos: Las dos torres",
+        "anio_estreno": 2002,
+        "director": "Peter Jackson",
+        "duracion": 235,
+        "activo": true
+    },
+    {
+        "id": "28764798",
+        "titulo": "Elseñor de los anillos: El retorno del rey",
+        "anio_estreno": 2003,
+        "director": "Peter Jackson",
+        "duracion": 263,
+        "activo": true
+    },
+    {
+        "id": "02e04825",
+        "titulo": "Forrest Gump",
+        "anio_estreno": 1994,
+        "director": "Robert Zemeckis",
+        "duracion": 142,
+        "activo": true
+    },
+    {
+        "id": "48514e17",
+        "titulo": "El Padrino parte II",
+        "anio_estreno": 1974,
+        "director": "francis Ford Coppola",
+        "duracion": 200,
+        "activo": true
+    },
+    {
+        "id": "af9dc795",
+        "titulo": "Gladiador",
+        "anio_estreno": 2000,
+        "director": "Ridley Scott",
+        "duracion": 155,
+        "activo": true
+    },
+    {
+        "id": "a757ea97",
+        "titulo": "Green book",
+        "anio_estreno": 2018,
+        "director": "Peter Farrelly",
+        "duracion": 130,
+        "activo": true
+    },
+    {
+        "id": "bc797e7c",
+        "titulo": "El viaje de Chihiro ",
+        "anio_estreno": 2001,
+        "director": "Hayao Miyazaki",
+        "duracion": 125,
+        "active": true
+    },
+    {
+        "id": "2e592675",
+        "titulo": "Sheck",
+        "anio_estreno": 2001,
+        "director": "Andrew Adamson y Vicky Jenson",
+        "duracion": 92,
+        "activo": true
+    },
+    {
+        "id": "71cd3b6a",
+        "titulo": "Roma",
+        "anio_estreno": 2018,
+        "director": "Alfonso Cuaron",
+        "duracion": 135,
+        "activo": true
+    },
+    {
+        "id": "69141544",
+        "titulo": "Los miserables",
+        "anio_estreno": 2012,
+        "director": "Tom Hooper",
+        "duracion": 158,
+        "activo": true
+    },
+    {
+        "id": "1a193ef2",
+        "titulo": "Icaro: documental",
+        "anio_estreno": 2017,
+        "director": "Bryan Fogel",
+        "duracion": 121,
+        "activo": true
+    },
+    {
+        "id": "9eccb5ed",
+        "titulo": "Día de los enamorados",
+        "anio_estreno": 2010,
+        "director": "Garry Marshall",
+        "duracion": 125,
+        "activo": true
+    },
+    {
+        "id": "1f160edd",
+        "titulo": "Día de ",
+        "anio_estreno": 2010,
+        "director": "Garry Marshall",
+        "duracion": [
+            125,
+            145,
+            134
+        ],
+        "activo": true
+    },
+    {
+        "id": "8b6c23f3",
+        "titulo": "Día de la montaña ",
+        "anio_estreno": 1820,
+        "director": "Garry Marshall",
+        "duracion": 60,
+        "activo": true
+    }
+]
